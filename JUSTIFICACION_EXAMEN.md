@@ -1,8 +1,7 @@
 # Justificación - Examen II Parcial de Programación de Negocios
 
 **Estudiante:** José Fúnez  
-**Número de cuenta:** [COMPLETAR]  
-**Repositorio GitHub:** [PEGAR ENLACE PÚBLICO]
+**Número de cuenta:** 17009200400244  
 
 > Inserta una captura REAL por cada parte antes de exportar a PDF; este documento describe lo desarrollado pero aún no prueba su funcionamiento.
 
