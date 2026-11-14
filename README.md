@@ -1,7 +1,7 @@
 # Examen II Parcial - Programación de Negocios
 
 **Estudiante:** José Fúnez  
-**Número de cuenta:** **[COMPLETAR NÚMERO DE CUENTA COMPLETO ANTES DE ENTREGAR]**  
+**Número de cuenta:** 1709200400244  
 **Universidad:** UNICAH  
 **Versión:** Odoo 20.0
 
